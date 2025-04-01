@@ -1,3 +1,6 @@
 # Algorithmic_trading
 
-Trading Bot
+
+## trading_1
+
+This is an unsupervised learning trading strategy
